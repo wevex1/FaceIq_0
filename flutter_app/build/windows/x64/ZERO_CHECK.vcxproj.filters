@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\app\FaceIq\flutter_app\build\windows\x64\CMakeFiles\4f7514daf31c678ecf8556c8e7413f26\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FBDFACF8-5C59-337C-B6BC-BA4EFEB129FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

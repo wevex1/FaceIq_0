@@ -1,6 +1,21 @@
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub/
-build/
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# MediaPipe model (important - usually too large)
+models/*.task
+
+# logs / outputs
+*.log
+outputs/
+
+models/
